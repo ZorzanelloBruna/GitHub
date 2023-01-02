@@ -1,4 +1,4 @@
-# GitHub
+# Comandos GitHub
 
 # Comandos básicos para um bom desempenho no terminal
 
